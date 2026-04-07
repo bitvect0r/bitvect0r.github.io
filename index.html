@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Harpreet Singh</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <nav>
+    <a href="./" class="nav-name">hs</a>
+    <div class="nav-links">
+      <a href="blog.html">blog</a>
+      <a href="wiki.html">wiki</a>
+      <button class="theme-toggle" id="themeToggle" aria-label="Toggle theme">
+        <svg class="icon-sun" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="5"/><path d="M12 1v2M12 21v2M4.22 4.22l1.42 1.42M18.36 18.36l1.42 1.42M1 12h2M21 12h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42"/></svg>
+        <svg class="icon-moon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 12.79A9 9 0 1111.21 3 7 7 0 0021 12.79z"/></svg>
+      </button>
+    </div>
+  </nav>
+
+  <main class="home">
+    <div class="hero">
+      <img src="assets/profile.jpg" alt="Harpreet Singh" class="profile-photo">
+      <div class="hero-text">
+        <h1>Harpreet Singh</h1>
+        <p class="tagline">Just tryna figure shit out</p>
+        <p class="bio">
+          I build stuff. Currently exploring LLMs like everyone else and experimenting with them. 
+          Interested in local models and how we can make useful tools using them.
+          This is my corner. A place for notes, writing and projects.
+        </p>
+        <div class="links">
+          <a href="https://x.com/bitvect0r" target="_blank" rel="noopener">twitter</a>
+          <a href="https://www.instagram.com/bitvect0r" target="_blank" rel="noopener">instagram</a>
+          <a href="https://github.com/bitvect0r" target="_blank" rel="noopener">github</a>
+        </div>
+      </div>
+    </div>
+
+    <section class="section">
+      <h2>Recent Posts</h2>
+      <div id="recentPosts" class="post-list">
+        <p class="muted">No posts yet.</p>
+      </div>
+      <a href="blog.html" class="section-link">all posts &rarr;</a>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2026 Harpreet Singh</p>
+  </footer>
+
+  <script src="theme.js"></script>
+  <script>
+    // Load recent blog posts on home page
+    fetch('blog/posts/index.json')
+      .then(r => r.json())
+      .then(posts => {
+        const el = document.getElementById('recentPosts');
+        if (!posts.length) return;
+        const recent = posts.slice(0, 3);
+        el.innerHTML = recent.map(p =>
+          `<a href="blog.html#${p.slug}" class="post-item">
+            <span class="post-title">${p.title}</span>
+            <span class="post-date">${p.date}</span>
+          </a>`
+        ).join('');
+      })
+      .catch(() => {});
+  </script>
+</body>
+</html>
