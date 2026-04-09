@@ -422,7 +422,14 @@ footer {
     border-bottom: 1px solid var(--border);
     padding-bottom: 16px;
   }
-  .wiki-list { display: flex; flex-wrap: wrap; gap: 4px; }
+  .wiki-list {
+    display: none;
+    flex-wrap: wrap;
+    gap: 4px;
+  }
+  .wiki-sidebar.show-list .wiki-list {
+    display: flex;
+  }
 }
 
 /* ── Scrollbar ── */
@@ -436,6 +443,33 @@ footer {
   font-size: 0.8rem;
   color: var(--text-muted);
   margin-bottom: 24px;
+}
+
+/* ── Article Sources ── */
+.article-sources {
+  margin-top: 2em;
+  padding-top: 1.5em;
+  border-top: 1px solid var(--border);
+}
+.article-sources h2 {
+  font-size: 0.8rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--text-muted);
+  margin-bottom: 12px;
+}
+.article-sources ul {
+  list-style: none;
+  padding-left: 0;
+}
+.article-sources li {
+  font-size: 0.85rem;
+  color: var(--text-secondary);
+  padding: 4px 0;
+}
+.article-sources li a {
+  color: var(--link);
 }
 
 /* ── Wiki Links ── */
