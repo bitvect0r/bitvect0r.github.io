@@ -180,12 +180,36 @@
     });
   }
 
+  function showGraph() {
+    currentSlug = null;
+    renderSidebar(searchEl.value);
+    if (window.wikiGraph) {
+      window.wikiGraph.hide();
+      window.wikiGraph.show(articleEl);
+    }
+  }
+
   function handleHash() {
     const hash = window.location.hash.slice(1);
-    if (hash) navigate(hash);
-    else if (allPages.length) window.location.hash = allPages[0].slug;
+    if (hash) {
+      if (window.wikiGraph) window.wikiGraph.hide();
+      navigate(hash);
+    } else {
+      showGraph();
+    }
+  }
+
+  // Wiki nav link: always return to graph view
+  const wikiNavLink = document.getElementById('wikiNavLink');
+  if (wikiNavLink) {
+    wikiNavLink.addEventListener('click', function (e) {
+      e.preventDefault();
+      history.pushState(null, '', 'wiki.html');
+      showGraph();
+    });
   }
 
   window.addEventListener('hashchange', handleHash);
+  window.addEventListener('popstate', handleHash);
   loadIndex().then(handleHash);
 })();

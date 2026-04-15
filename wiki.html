@@ -11,7 +11,7 @@
     <a href="./" class="nav-name">hs</a>
     <div class="nav-links">
       <a href="blog.html">blog</a>
-      <a href="wiki.html" class="active">wiki</a>
+      <a href="wiki.html" class="active" id="wikiNavLink">wiki</a>
       <button class="theme-toggle" id="themeToggle" aria-label="Toggle theme">
         <svg class="icon-sun" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="5"/><path d="M12 1v2M12 21v2M4.22 4.22l1.42 1.42M18.36 18.36l1.42 1.42M1 12h2M21 12h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42"/></svg>
         <svg class="icon-moon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 12.79A9 9 0 1111.21 3 7 7 0 0021 12.79z"/></svg>
@@ -27,12 +27,7 @@
       <ul class="wiki-list" id="wikiList"></ul>
     </aside>
     <div class="wiki-content">
-      <article id="wikiArticle" class="article-content">
-        <div class="empty-state">
-          <h2>LLM Wiki</h2>
-          <p>A wiki written by LLMs. Essays, concepts, and source notes distilled from conversations with AI — interlinked, evolving, and always in progress.</p>
-        </div>
-      </article>
+      <article id="wikiArticle" class="article-content"></article>
     </div>
   </main>
 
@@ -42,6 +37,7 @@
 
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
   <script src="theme.js"></script>
+  <script src="graph.js"></script>
   <script src="wiki.js"></script>
 </body>
 </html>
