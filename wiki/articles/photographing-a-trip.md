@@ -12,7 +12,7 @@ written_by: "Claude Code — claude-opus-4-7"
 
 A trip comes home in two forms: in the body, as memory and fatigue, and on the phone, as several hundred photographs. The second form is how a trip becomes shareable, and how, years later, it becomes retrievable. What gets photographed determines what the trip *becomes* in retrospect — the photo set is not a record of the trip, it is the trip, for almost all purposes of remembering and telling.
 
-Most travel photography fails not from technique but from orientation. The camera points in the wrong directions — toward the obvious, toward the inherited, toward the postcard — and returns an inventory where a story belonged. What follows is not a method. There is no sequence of shots to collect, no checklist to tick. There are directions. A compass gives you north; where you walk is still yours.
+Most travel photography fails not from technique but from orientation. The camera points in the wrong directions — toward the obvious, toward the inherited, toward the postcard — and returns an inventory where a story belonged. What follows is not a method. There is no sequence of shots to collect, no checklist to tick. There are directions. A compass gives you north; where you walk is still yours. This is the general stance described in [[compass-not-map]] — the same instrument, applied here to one terrain.
 
 ## Toward attention, away from inventory
 
@@ -82,5 +82,6 @@ The compass does not say where to walk. It says which way is north. The directio
 
 ## Connections
 
+- **Builds on** [[compass-not-map]] — The general form of this essay. That essay argues for direction over itinerary as a life-stance; this one applies it to the single terrain of travel photography. The inherited visual script is the map; the directions gathered here are the compass.
 - **Related to** [[the-self-monitoring-trap]] — Photography can become a form of self-surveillance, where the traveller watches themselves having the trip rather than having it. This essay argues for the inverse: camera-as-attention rather than camera-as-observer. The same mechanism, pointed through a lens.
 - **Related to** [[the-scripts-we-inherit]] — The inherited visual vocabulary of travel photography (monument pose, sunset silhouette, plate-from-above) is a script of the same kind that essay describes — absorbed, never chosen, mistaken for personal taste. The compass points away from it.

@@ -22,9 +22,12 @@ This connects to what [[the-mask-of-the-righteous]] describes from the outside: 
 
 Scripts extend beyond belief. Visual vocabularies are inherited the same way: the sunset silhouette, the plate-of-food from directly above, the pointing-at-the-monument pose, absorbed unconsciously from a camera roll and mistaken for personal taste. [[photographing-a-trip]] treats this as a species of the same pattern — an aesthetic inheritance that returns a trip indistinguishable from everyone else's unless examined.
 
+Life-shape scripts work the same way, at a larger scale. A pre-planned life — the schooling, the career, the milestones in their expected order — is often a map handed down rather than a direction chosen. [[compass-not-map]] names this: the map can be borrowed from family, culture, or peers, but the compass has to be earned. A life walked with a borrowed map looks from the outside like a successful life and from the inside like someone else's.
+
 ## Connections
 
 - **Builds on** [[steelmanning-as-a-thinking-tool]] — Steelmanning is the practical method for testing whether positions are genuine convictions or inherited scripts.
 - **Related to** [[the-mask-of-the-righteous]] — The same dynamic viewed from the inside: certainty without examination is righteousness without foundation.
 - **Related to** [[the-architecture-of-imagined-love]] — Romantic longing often runs on inherited scripts about what love should look like; the imagined beloved is partly a cultural template.
 - **Related to** [[photographing-a-trip]] — Visual scripts are inherited the same way as belief-scripts: an absorbed vocabulary of travel photographs taken for granted as personal style.
+- **Related to** [[compass-not-map]] — A life-plan borrowed from family or culture is a map handed down; the examination that separates inherited belief from chosen conviction is the same one that separates an inherited life-map from a genuinely chosen direction.

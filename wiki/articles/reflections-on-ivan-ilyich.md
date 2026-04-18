@@ -24,8 +24,11 @@ Tolstoy suggests that suffering is not an interruption to life but part of its t
 
 The connection to [[the-scripts-we-inherit]] is direct. Ivan lived his entire life according to society's script. Tolstoy's question is whether his readers are doing the same — and whether they will notice before it is too late.
 
+Ivan is also the terminal case of the distinction drawn in [[compass-not-map]]. He followed every socially-sanctioned map available — the career track, the marriage, the furniture, the house — without ever consulting a compass underneath them. The horror Tolstoy inflicts on him is not that the maps were wrong but that the compass had never been asked. He arrives at the end of the itinerary and finds nothing beneath it. The book is, in one reading, an argument for the compass by showing what is left when only the map has been lived.
+
 ## Connections
 
 - **Related to** [[the-mask-of-the-righteous]] — Ivan's habit of justifying his behaviour by looking at the crowd mirrors how collective action drowns individual conscience.
 - **Related to** [[the-scripts-we-inherit]] — Ivan lived according to society's script his entire life; Tolstoy asks whether the reader is doing the same.
 - **Related to** [[the-architecture-of-imagined-love]] — Shares the insistence on examining genuine motive over comfortable performance; the Stoic scrutiny of the unsent message mirrors Tolstoy's demand for authenticity.
+- **Related to** [[compass-not-map]] — Ivan is the archetype of the pure-map life — every itinerary followed, the compass never consulted. That essay is in part an argument for how not to arrive where he arrived.

@@ -92,11 +92,14 @@ The way out isn't to destroy the monitor. It's to notice when it's running, reco
 
 The monitor also takes other forms beyond social settings. Pointed through a camera on a trip, it becomes a mode of watching oneself have the experience rather than having it — photography as evidence-gathering for later display rather than as a way of noticing what is actually there. [[photographing-a-trip]] traces that particular version and the orientation that counters it.
 
+Stretched over a longer timeline, the same mechanism becomes a different failure. The map-walker described in [[compass-not-map]] is the monitor operating at the scale of a life — checking each day, year, and decade against a plan rather than against the moment being lived. The question *am I on track* is self-monitoring in slow motion; the compass-stance is closer to the external focus that dissolves the monitor in the first place.
+
 ## Connections
 
 - **Builds on** [[the-impossibility-of-universal-approval]] — That essay proves the fear of judgment is aimed at an impossibility; this essay explores what happens when that fear goes unresolved and manifests as social paralysis. The perfectionism and fear-of-judgment mechanisms described here are downstream consequences of chasing universal approval.
 - **Related to** [[the-architecture-of-imagined-love]] — A different face of the same inner observer: here it polices social performance, there it constructs an imagined beloved out of thin material.
 - **Related to** [[photographing-a-trip]] — Another face of the same observer: the camera as surveillance apparatus for a self having a trip. The corrective is structurally identical — redirect attention outward, make the lens serve noticing rather than performance.
+- **Related to** [[compass-not-map]] — Life-mapping is the same monitor stretched over decades: *am I on track* is self-monitoring in slow motion. The compass-stance redirects attention from the plan to the actual moment being lived, which is the same move recommended here at the scale of a night out.
 
 ---
 
