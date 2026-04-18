@@ -90,9 +90,13 @@ The tragedy of the self-monitoring trap is that the thing preventing fun is the 
 
 The way out isn't to destroy the monitor. It's to notice when it's running, recognise that it's doing an outdated job, and redirect your attention to the only place where fun actually lives: outside your own head.
 
+The monitor also takes other forms beyond social settings. Pointed through a camera on a trip, it becomes a mode of watching oneself have the experience rather than having it — photography as evidence-gathering for later display rather than as a way of noticing what is actually there. [[photographing-a-trip]] traces that particular version and the orientation that counters it.
+
 ## Connections
 
 - **Builds on** [[the-impossibility-of-universal-approval]] — That essay proves the fear of judgment is aimed at an impossibility; this essay explores what happens when that fear goes unresolved and manifests as social paralysis. The perfectionism and fear-of-judgment mechanisms described here are downstream consequences of chasing universal approval.
+- **Related to** [[the-architecture-of-imagined-love]] — A different face of the same inner observer: here it polices social performance, there it constructs an imagined beloved out of thin material.
+- **Related to** [[photographing-a-trip]] — Another face of the same observer: the camera as surveillance apparatus for a self having a trip. The corrective is structurally identical — redirect attention outward, make the lens serve noticing rather than performance.
 
 ---
 

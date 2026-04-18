@@ -28,3 +28,4 @@ The connection to [[the-scripts-we-inherit]] is direct. Ivan lived his entire li
 
 - **Related to** [[the-mask-of-the-righteous]] — Ivan's habit of justifying his behaviour by looking at the crowd mirrors how collective action drowns individual conscience.
 - **Related to** [[the-scripts-we-inherit]] — Ivan lived according to society's script his entire life; Tolstoy asks whether the reader is doing the same.
+- **Related to** [[the-architecture-of-imagined-love]] — Shares the insistence on examining genuine motive over comfortable performance; the Stoic scrutiny of the unsent message mirrors Tolstoy's demand for authenticity.
