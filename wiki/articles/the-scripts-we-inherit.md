@@ -24,6 +24,8 @@ Scripts extend beyond belief. Visual vocabularies are inherited the same way: th
 
 Life-shape scripts work the same way, at a larger scale. A pre-planned life — the schooling, the career, the milestones in their expected order — is often a map handed down rather than a direction chosen. [[compass-not-map]] names this: the map can be borrowed from family, culture, or peers, but the compass has to be earned. A life walked with a borrowed map looks from the outside like a successful life and from the inside like someone else's.
 
+Not all inherited scripts are cultural. [[fast-pleasures-and-awareness]] treats a biochemical and cognitive species of the same pattern — the loop that runs short-form scrolling, cigarettes, the tenth drink, or even music used as soundtrack to an imagined life all operate below the level of endorsement. The diagnostic is the same: were you in awareness when this began, and are you in awareness when it ends?
+
 ## Connections
 
 - **Builds on** [[steelmanning-as-a-thinking-tool]] — Steelmanning is the practical method for testing whether positions are genuine convictions or inherited scripts.
@@ -31,3 +33,4 @@ Life-shape scripts work the same way, at a larger scale. A pre-planned life — 
 - **Related to** [[the-architecture-of-imagined-love]] — Romantic longing often runs on inherited scripts about what love should look like; the imagined beloved is partly a cultural template.
 - **Related to** [[photographing-a-trip]] — Visual scripts are inherited the same way as belief-scripts: an absorbed vocabulary of travel photographs taken for granted as personal style.
 - **Related to** [[compass-not-map]] — A life-plan borrowed from family or culture is a map handed down; the examination that separates inherited belief from chosen conviction is the same one that separates an inherited life-map from a genuinely chosen direction.
+- **Related to** [[fast-pleasures-and-awareness]] — The fast-pleasure pattern (biochemical or cognitive) runs below endorsement like any inherited script; the diagnostic — awareness at the start, awareness at the end? — is a species of the examination this essay recommends.

@@ -24,9 +24,24 @@ fi
 mkdir -p "$DEST"
 
 count=0
+skipped=0
 for file in "$SRC"/*.md; do
   [ -f "$file" ] || continue
   name="$(basename "$file")"
+
+  if python3 -c '
+import sys, re
+with open(sys.argv[1]) as f:
+    text = f.read()
+m = re.match(r"^---\n(.*?)\n---", text, re.DOTALL)
+if m and re.search(r"^private:\s*true\s*$", m.group(1), re.MULTILINE | re.IGNORECASE):
+    sys.exit(0)
+sys.exit(1)
+' "$file"; then
+    skipped=$((skipped + 1))
+    echo "  skipped $name (private)"
+    continue
+  fi
 
   cp "$file" "$DEST/$name"
 
@@ -42,5 +57,5 @@ print(json.dumps(sorted(files), indent=2))
 " > index.json)
 
 echo ""
-echo "Done. Imported $count essays into wiki/articles/"
+echo "Done. Imported $count essays into wiki/articles/ (skipped $skipped private)"
 echo "index.json updated with $(cat "$DEST/index.json" | grep -c '\.md') entries."

@@ -94,12 +94,18 @@ The monitor also takes other forms beyond social settings. Pointed through a cam
 
 Stretched over a longer timeline, the same mechanism becomes a different failure. The map-walker described in [[compass-not-map]] is the monitor operating at the scale of a life — checking each day, year, and decade against a plan rather than against the moment being lived. The question *am I on track* is self-monitoring in slow motion; the compass-stance is closer to the external focus that dissolves the monitor in the first place.
 
+The flow-state described here has a superficial twin. [[fast-pleasures-and-awareness]] picks up this angle — fast pleasures also quiet the inner observer and absorb the self, but through the opposite mechanism. Flow absorbs the self because the activity demands the full capacity of the organism. Fast pleasures absorb the self because nothing is being demanded of it. Flow is awareness at maximum; the fast-pleasure pattern is awareness dimmed. The trails the two leave behind track the difference: aliveness after flow, hollowness after the loop.
+
+A different agent displaces awareness in a parallel way. [[craving-and-the-unlived-present]] names it: the mind constantly wanting some state it is not in, inhabiting an imagined elsewhere rather than the present the body occupies. The monitor pulls attention *inward* to watch the self; craving pulls it *outward* and *forward* to the wanted state. Two different inner agents, same cost — the attention is not where the body is.
+
 ## Connections
 
 - **Builds on** [[the-impossibility-of-universal-approval]] — That essay proves the fear of judgment is aimed at an impossibility; this essay explores what happens when that fear goes unresolved and manifests as social paralysis. The perfectionism and fear-of-judgment mechanisms described here are downstream consequences of chasing universal approval.
 - **Related to** [[the-architecture-of-imagined-love]] — A different face of the same inner observer: here it polices social performance, there it constructs an imagined beloved out of thin material.
 - **Related to** [[photographing-a-trip]] — Another face of the same observer: the camera as surveillance apparatus for a self having a trip. The corrective is structurally identical — redirect attention outward, make the lens serve noticing rather than performance.
 - **Related to** [[compass-not-map]] — Life-mapping is the same monitor stretched over decades: *am I on track* is self-monitoring in slow motion. The compass-stance redirects attention from the plan to the actual moment being lived, which is the same move recommended here at the scale of a night out.
+- **Related to** [[fast-pleasures-and-awareness]] — Fast pleasures produce a counterfeit of flow. They quiet the inner observer and absorb the self, but by demanding nothing from the organism rather than everything — the inverted twin of the state this essay recommends. Flow is awareness at maximum; the fast-pleasure pattern is awareness dimmed.
+- **Related to** [[craving-and-the-unlived-present]] — A different inner agent with a parallel cost. The monitor pulls awareness inward into self-watching; craving pulls awareness outward and forward into an imagined wanted state. Two mechanisms, one loss — the attention is not where the body is.
 
 ---
 

@@ -21,6 +21,8 @@ Proust understood this deeply. We do not love people, he argued — we love the 
 
 This is not delusion. It is not weakness. It is simply what it means to be a creature capable of hope.
 
+The mechanism is not specific to love. It is the general shape of craving — [[craving-and-the-unlived-present]] treats it at that wider level. Any strongly wanted object, not only a beloved, is partly built by the mind that wants it; the wanting consists in the building. Imagined love is this process arriving in its most dramatic and legible form, which is why it is the case worth examining most closely.
+
 ## The Tunnel Vision of Interest
 
 There is a phenomenon worth naming. Sometimes, in the orbit of a particular person, the rest of the world quiets. No wandering attention, no idle comparison. The field of awareness collapses into a single point of gravity.
@@ -62,6 +64,7 @@ Some lights are meant to illuminate a moment, not a lifetime. That does not make
 - **Related to** [[the-self-monitoring-trap]] — Both explore the inner observer; here it is the architect constructing an imagined beloved, rather than the one policing social performance.
 - **Builds on** [[reflections-on-ivan-ilyich]] — Shares the insistence on genuineness: examining one's real motives (the *why* behind the unsent message) rather than acting on their comfortable disguise.
 - **Related to** [[the-scripts-we-inherit]] — Romantic longing often runs on inherited scripts about what love should look like; the imagined beloved is partly a cultural template projected onto a real person.
+- **Related to** [[craving-and-the-unlived-present]] — The constructed beloved is one instance of a general architecture. That essay argues any craved object — person, career, future self — is a mind-built elsewhere that displaces the present. The description here of love-as-construction is the dramatized version of that mechanism.
 
 ---
 

@@ -26,9 +26,15 @@ The connection to [[the-scripts-we-inherit]] is direct. Ivan lived his entire li
 
 Ivan is also the terminal case of the distinction drawn in [[compass-not-map]]. He followed every socially-sanctioned map available — the career track, the marriage, the furniture, the house — without ever consulting a compass underneath them. The horror Tolstoy inflicts on him is not that the maps were wrong but that the compass had never been asked. He arrives at the end of the itinerary and finds nothing beneath it. The book is, in one reading, an argument for the compass by showing what is left when only the map has been lived.
 
+The performed life has smaller cousins. [[fast-pleasures-and-awareness]] treats one of them: the afternoon of scrolling or chemical quick-hits as a convincing simulation of awareness in which awareness itself was absent. Ivan is this pattern stretched across decades. The same substitution of the appearance of a thing for the thing itself, only compressed into hours.
+
+The mechanism sits one level deeper still. [[craving-and-the-unlived-present]] names it as *tanha* — the wanting that builds an imagined future to inhabit instead of the present one. Ivan's life is a lifetime spent inside that mechanism: each script-required arrival anticipated, then achieved, then replaced by the next thing to reach for, the actual hours passing somewhere the attention never quite was. The afternoon-scale failure is fast pleasures. The lifetime-scale failure is Ivan.
+
 ## Connections
 
 - **Related to** [[the-mask-of-the-righteous]] — Ivan's habit of justifying his behaviour by looking at the crowd mirrors how collective action drowns individual conscience.
 - **Related to** [[the-scripts-we-inherit]] — Ivan lived according to society's script his entire life; Tolstoy asks whether the reader is doing the same.
 - **Related to** [[the-architecture-of-imagined-love]] — Shares the insistence on examining genuine motive over comfortable performance; the Stoic scrutiny of the unsent message mirrors Tolstoy's demand for authenticity.
 - **Related to** [[compass-not-map]] — Ivan is the archetype of the pure-map life — every itinerary followed, the compass never consulted. That essay is in part an argument for how not to arrive where he arrived.
+- **Related to** [[fast-pleasures-and-awareness]] — Ivan's performed life is the macro-scale version of what fast pleasures do in an afternoon: the feeling of having lived while awareness of the thing itself was absent. Same substitution structure, different duration.
+- **Related to** [[craving-and-the-unlived-present]] — Ivan's life is one extended case of *tanha*: every socially-sanctioned want anticipated and achieved, the next immediately installed, no arrival ever actually arriving. That essay describes the mechanism at the scale of a minute; Ivan is it stretched across fifty years.
